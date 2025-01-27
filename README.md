@@ -14,6 +14,10 @@ For the Festool MFT/3, use the T-Nut from Festool's accessories such as their
 [hose mount](
 https://www.printables.com/model/806346-festool-d27-d36-suction-hose-holder).
 
+Provided models use M5 bolts.  If using a Benchdogs.co.uk workstation, bolts
+16mm to 20mm should work.  Test fit before tightening all the way down to
+ensure the bolt does not damage T-track.
+
 Edit bin parameters in FreeCAD by changing values in the `Parameters`
 spreadsheet.
 
